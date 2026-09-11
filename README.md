@@ -247,6 +247,7 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Dark Web Search Engines
 * [Ahmia](https://ahmia.fi)
 * [Aleph Open Search](https://open-search.aleph-networks.eu)
+* [Robin](https://github.com/apurvsinghgautam/robin) - AI-powered dark web OSINT tool for searching, filtering, analyzing, and summarizing dark web intelligence through Tor.
 
 ## [↑](#-table-of-contents) Visual Search and Clustering Search Engines
 
@@ -624,7 +625,7 @@ algorithms, knowledgebase and AI technology.
 * [SaveYoutubeBot](https://t.me/SaveYoutubeBot) — Finds and downloads YouTube videos.
 * [Search_firm_bot](https://t.me/Search_firm_bot) — Searches organizations, banks, postal codes.
 * [Searchforchats](https://telegram.me/searchforchatsbot) — Searches chats by keywords.
-* [Sherlock](https://t.me/Getcontact123qwerty_bot?start=_ref_jGW8Sa_iEmG9V) — Name/phone/email search + vehicle data.
+* [Sherlock](https://t.me/data_tracebot?start=_ref_jGW8Sa_iEmG9V) — Name/phone/email search + vehicle data.
 * [ShtrafKZBot](https://t.me/ShtrafKZBot) — Fines, taxes, penalties; traffic violations.
 * [SMS Activate](https://t.me/PrivatePhoneBot) — Virtual numbers from 50+ countries.
 * [SpyGGbot](https://telegram.me/SpyGGbot) — TON balances, NFT owners, Fragment usernames.
@@ -675,6 +676,7 @@ algorithms, knowledgebase and AI technology.
 * [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
 * [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
 * [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
+* [Linkook](https://github.com/JackJuly/linkook) - Discovers linked social accounts and associated email clues from a username, with graph-friendly relationship export.
 * [Maigret](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 * [Name Chk](https://www.namechk.com) - Check over 30 domains and more than 90 social media account platforms.
 * [Name Checkr](https://www.namecheckr.com) - checks a domain and username across many platforms.
@@ -1078,6 +1080,7 @@ algorithms, knowledgebase and AI technology.
 * [Image Identification Project](https://www.imageidentify.com)
 * [KartaVision](https://kartavision.com/) - search engine for KartaView imagery. It supports natural-language search and search by image
 * [Lenso.ai](https://lenso.ai) - Reverse image search tool with facial recognition, created for finding people, similar images, copies of photos, identical places and more.
+* [LingoLens](https://github.com/OSINT-mindset/lingolens) - Runs Google Lens searches across selected languages and countries and exports the results as an HTML report.
 * [Lycos Image Search](https://search.lycos.com)
 * [PhotoBucket](https://photobucket.com)
 * [PicTriev](https://www.pictriev.com) - a face search engine.
@@ -1099,6 +1102,7 @@ algorithms, knowledgebase and AI technology.
 * [Forensically](https://29a.ch/photo-forensics/)
 * [forensics.media](https://forensics.media/tools/)  - Free in-browser image forensics suite: EXIF/metadata viewer, Error Level Analysis, clone/copy-move and double-JPEG detection. Runs client-side, nothing uploaded.
 * [FotoForensics](https://www.fotoforensics.com)
+* [GeoIntel](https://github.com/atiilla/GeoIntel) - AI-assisted image geolocation tool using Google Gemini to estimate where a photograph was taken.
 * [GeoSpy](https://geospy.web.app/) - AI based image osint tool
 * [ImgOps](https://imgops.com/)
 * [ImpulseAdventure](https://www.impulseadventure.com/photo/jpeg-snoop.html)
@@ -1243,6 +1247,7 @@ algorithms, knowledgebase and AI technology.
 * [SatIntel](https://github.com/ANG13T/SatIntel)
 * [Scribble Maps](https://scribblemaps.com)
 * [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
+* [ShadowBroker](https://github.com/BigBodyCobain/Shadowbroker) - Real-time geospatial intelligence platform aggregating aircraft, ships, satellites, conflicts, cyber-threat feeds, and other public telemetry.
 * [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Geolocate photos by shadow analysis. Browser port of Bellingcat's ShadowFinder. No Jupyter, no accounts, client-side.
 * [SOAR](https://soar.earth/)
 * [StoryMaps](https://storymaps.arcgis.com/en)
@@ -1675,6 +1680,7 @@ algorithms, knowledgebase and AI technology.
 * [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
 * [Obsidian](https://obsidian.md) - Knowledge base and note-taking tool ideal for OSINT case management.
 * [OpenGraph Intel (OGI)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool
+* [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI-powered OSINT investigation agent combining email, username, domain, IP, breach, and threat-intelligence tools through CLI, Web UI, and MCP.
 * [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](https://osintframework.com/) - Web based framework for OSINT.
